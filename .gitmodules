@@ -1,3 +1,6 @@
 [submodule "child"]
 	path = child
 	url = ./child
+[submodule "Indian-States-And-Districts"]
+	path = Indian-States-And-Districts
+	url = https://github.com/hashmat0811/Indian-States-And-Districts.git
